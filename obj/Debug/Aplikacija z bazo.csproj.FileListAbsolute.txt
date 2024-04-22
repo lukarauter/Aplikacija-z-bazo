@@ -1,0 +1,20 @@
+C:\GitHubProjects\Aplikacija-z-bazo\bin\Debug\Aplikacija z bazo.exe.config
+C:\GitHubProjects\Aplikacija-z-bazo\bin\Debug\Aplikacija z bazo.exe
+C:\GitHubProjects\Aplikacija-z-bazo\bin\Debug\Aplikacija z bazo.pdb
+C:\GitHubProjects\Aplikacija-z-bazo\bin\Debug\EntityFramework.dll
+C:\GitHubProjects\Aplikacija-z-bazo\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHubProjects\Aplikacija-z-bazo\bin\Debug\System.Data.SQLite.dll
+C:\GitHubProjects\Aplikacija-z-bazo\bin\Debug\System.Data.SQLite.EF6.dll
+C:\GitHubProjects\Aplikacija-z-bazo\bin\Debug\System.Data.SQLite.Linq.dll
+C:\GitHubProjects\Aplikacija-z-bazo\bin\Debug\EntityFramework.xml
+C:\GitHubProjects\Aplikacija-z-bazo\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHubProjects\Aplikacija-z-bazo\bin\Debug\System.Data.SQLite.xml
+C:\GitHubProjects\Aplikacija-z-bazo\obj\Debug\Aplikacija z bazo.csproj.AssemblyReference.cache
+C:\GitHubProjects\Aplikacija-z-bazo\obj\Debug\Aplikacija_z_bazo.Form1.resources
+C:\GitHubProjects\Aplikacija-z-bazo\obj\Debug\Aplikacija_z_bazo.Properties.Resources.resources
+C:\GitHubProjects\Aplikacija-z-bazo\obj\Debug\Aplikacija z bazo.csproj.GenerateResource.cache
+C:\GitHubProjects\Aplikacija-z-bazo\obj\Debug\Aplikacija z bazo.csproj.CoreCompileInputs.cache
+C:\GitHubProjects\Aplikacija-z-bazo\obj\Debug\Aplikaci.771D2268.Up2Date
+C:\GitHubProjects\Aplikacija-z-bazo\obj\Debug\Aplikacija z bazo.exe
+C:\GitHubProjects\Aplikacija-z-bazo\obj\Debug\Aplikacija z bazo.pdb
+C:\GitHubProjects\Aplikacija-z-bazo\obj\Debug\Aplikacija_z_bazo.Form2.resources
